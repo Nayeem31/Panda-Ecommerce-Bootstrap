@@ -13,6 +13,9 @@
     --bs-btn-disabled-bg: transparent;
     --bs-btn-disabled-border-color: #FF2379;
 }
+.carousel-slider{
+    margin-top: 170px;
+}
 .panda-bg-info{
     background-color:#FCEAE8;
 }
